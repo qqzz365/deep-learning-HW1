@@ -1,0 +1,11 @@
+# requirements.txt
+
+python==3.12
+torch==2.3.0
+torchvision==0.18.0
+numpy==1.26.4
+scikit-learn==1.4.2
+torchsummary==1.5.1
+ptflops==0.7.3
+Pillow==9.0.0 
+
